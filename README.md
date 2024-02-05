@@ -1,4 +1,4 @@
-# Shopping Cart [(Live Demo)](https://shoppingcart-tsx.vercel.app/)
+# Shopping Cart [(Live Demo)](https://shoppingcart-tsx.netlify.app/)
 پروژه **سبد خرید**
 
 
